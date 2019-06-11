@@ -1,6 +1,46 @@
-body{
-  background: teal;
+h1, h2, p, li{
+  color: deepskyblue;
+  padding: 1px;
+  font-weight: 500;
+  font-family: Georgia;
+  font-size: 16px;
+  opacity: 0.9;
+  background-color: 
 }
-h1{
-  color: white;
+
+h1, .about-halo{
+  text-align: center;
+  font-size: 17px;
+}
+
+.header{
+  background-color:;
+  height: 126px;
+  width: 100%;
+}
+
+.title{
+ border-left: solid 2px deepskyblue;
+  border-
+  margin: 0 auto;
+  
+}
+
+a{
+  color: lightgreen;
+ 
+}
+
+
+
+body{
+ background-image: url(https://www.gamepur.com/files/images/2019-03/091557.jpg);
+ background-position: center;
+ background-repeat: no-repeat;
+
+}
+
+#survey{
+  color: deepskyblue;
+  
 }
