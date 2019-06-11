@@ -1,0 +1,87 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+  <title>Halo Guide</title>
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="header">
+  
+    <h1><strong>About the Halo Universe</strong></h1>
+    <p class="about-halo">
+The Halo universe is the sprawling fictional universe in which all Halo media takes place. Many of Halo's central events are set in the 26th century of the human Gregorian calendar, with humanity colonizing the galaxy only to stumble upon a hostile alliance of aliens known as the Covenant who, motivated by the power of the Prophets and the promises of paradise-after-death, are bent on humanity's destruction. </p>
+  </div>
+
+  <div class="info">
+  <h2>Basic Info</h2>
+  <p class="title">Game titles</p>
+  <ul>
+    <li>Halo:Combat Evolved</a></li>
+    <li>Halo 2</li>
+    <li>Halo 3: Finish the Fight</li>
+    <li>Halo 4</li>
+    <li>Halo 5: Guardians</li>
+    <li>Halo Reach</li>
+    <li>Halo 3: ODST</li>
+    <li>Halo Wars</li>
+    <li>Halo Wars 2</li>
+  </ul>
+
+  <p class="title">Guides</p>
+  <ul>
+    <li><a href="https://www.ign.com/wikis/halo-combat-evolved/">Halo Combat Evolved</a></li>
+    <p>Here's is a guide on how to get through each level of the game. <br>It covers how to go about the game in a regular fashion. <br>However if you are a veteran player it'll show you how to speedrun levels.</p>
+    <li><a href="https://www.ign.com/wikis/halo-master-chief-collection/Halo_2_Campaign_Walkthrough">Halo 2<a/></li>
+      <p>This link will walk you through the game in a similar fashion to the first one<br> however with the addition of achievements you can unlock.</p>
+  </ul>
+  </div>
+  
+  <div class="footer">
+  
+  <h2>Contact</h2>
+  <p>If you need any further help or want to play some games find me on Instagram, Facebook,  Xbox, and email.</p>
+    <ul>
+      <li>Insta: edgypandabois</li>
+      <li>FB: Jesus Rosas</li>
+      <li>Xbox: WildSwordKiller</li>
+      <li><a href="mailto:jrosas3@live.com">Jrosas</a></li>
+    </ul>
+
+  </div>
+</body>
+<div ID="survey">
+ <form action="submission.html" method="POST">
+				<h1>Mini-suvery</h1>
+        <section class="range">
+          <label for="range">Do you like halo now?</label>
+          <br>
+          <span>NO</span>
+          <input type="range" name="range" id="range" value="3" min="1" max="5">
+          <span>YES</span>
+        </section>
+        <hr>     
+        <section class="helpfulness">
+          <span>Did you find the information helpful?</span>
+          <br>
+          <input type="checkbox" name="yes" id="yes" value="yes">
+          <label for="yes">Yes</label>
+          <input type="checkbox" name="no" id="no" value="no">
+          <label for="no">No</label>
+          <input type="checkbox" name="kinda" id="kinda" value="kinda">
+          <label for="kinda">Kinda</label>
+   </section>
+           <section class="submission">
+          <input type="submit" value="Submit">
+        </section>
+      </form>
+   </div>
+  
+  
+  
+  
+  
+  
+  
+  
+</html>
